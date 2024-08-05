@@ -1,6 +1,6 @@
 # Snowfall-Saga
 
-CSC301 Project
+![SnowFall Saga Logo])()
 
 ## Project Description
 
