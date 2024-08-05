@@ -1,6 +1,6 @@
 # Snowfall-Saga
 
-![SnowFall Saga Logo])()
+<img src="https://github.com/KrishPatel13/Snowfall-Saga/blob/master/lobby_service/app/static/images/Snowfall%20Saga%20Logo.png" >
 
 ## Project Description
 
