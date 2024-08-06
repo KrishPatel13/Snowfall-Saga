@@ -2,6 +2,8 @@
 
 <img src="https://github.com/KrishPatel13/Snowfall-Saga/blob/master/lobby_service/app/static/images/Snowfall%20Saga%20Logo.png" >
 
+### Intro to Snowfall Saga: 
+
 ## Project Description
 
 Snowfall-Saga is a web-based game developed as part of the CSC301 course.
